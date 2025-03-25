@@ -181,6 +181,10 @@ header nav ul li.btn a:hover {
     overflow: hidden;
 }
 
+.trending .games .block img {
+    border-radius: 10%;
+}
+
 .big-text {
     padding: 50px 0;
     font-size: 35px;
