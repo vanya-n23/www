@@ -178,6 +178,7 @@ header nav ul li.btn a:hover {
     position: relative;
     top: 5px;
     margin-right: 7px;
+    overflow: hidden;
 }
 
 .big-text {
