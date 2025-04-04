@@ -215,7 +215,7 @@ header nav ul li.btn a:hover {
 }
 
 .features {
-    background: url('/img/BG.png') no-repeat center center fixed;
+    background: url('img/BG.png') no-repeat center center fixed;
     background-size: cover;
     padding: 80px;
 }
